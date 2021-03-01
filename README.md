@@ -49,7 +49,7 @@ Pre-Requisites:
 
 [User guide](https://docs.google.com/document/d/1wMZtLQ3Yi1npmWIuse6JpF-bwgTg8PKTpUUn2LXs-bk/ "Poetry-user guide") for more commands on poetry 
 
-     Packages installation : 
+     Packages installation : (using poetry tool for packaging and dependency management)
         - pip install poetry 
 	    - Install all the required packages (specified in pyproject.toml file) using the following command:
         poetry install --no-root
