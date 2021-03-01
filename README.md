@@ -62,7 +62,6 @@ Pre-Requisites:
         - poetrify generate -s requirements.txt  # set source file and create pyproject.toml
         - poetry install --no-root  # lock the dependencies
 
-
      Spell Checker Pickles
         Files:  "../datastore/auto_correct/kb_autocorrect.pkl"
                 "../datastore/auto_correct/stopwords_trie.pkl"
