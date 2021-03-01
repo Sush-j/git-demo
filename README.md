@@ -40,8 +40,6 @@ Configurations:
 
 Pre-Requisites:
 
-[Poetry user guide](https://docs.google.com/document/d/1wMZtLQ3Yi1npmWIuse6JpF-bwgTg8PKTpUUn2LXs-bk/)
-
      Packages required : 
         - datastore
         - knowledge-base
@@ -55,8 +53,7 @@ Pre-Requisites:
         - Add a new package using poetry as follows:
         poetry add < package_name > [@< specific_version_number >]
 
-
-
+[Poetry - user guide](https://docs.google.com/document/d/1wMZtLQ3Yi1npmWIuse6JpF-bwgTg8PKTpUUn2LXs-bk/)
 
      Spell Checker Pickles
         Files:  "../datastore/auto_correct/kb_autocorrect.pkl"
