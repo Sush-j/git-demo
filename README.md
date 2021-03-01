@@ -58,7 +58,7 @@ Pre-Requisites:
 
      Convert requirements.txt (pip) to pyproject.toml file (poetry) :
         - pip install poetrify 
-        - poetrify  #verify for successful installation
+        - poetrify  # verify on successful installation
         - poetrify generate -s requirements.txt  # set source file and create pyproject.toml
         - poetry install --no-root  # lock the dependencies
 
