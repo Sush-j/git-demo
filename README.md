@@ -47,7 +47,7 @@ Pre-Requisites:
         - autocomplete-state
         - helpers	
 
-[User guide](https://docs.google.com/document/d/1wMZtLQ3Yi1npmWIuse6JpF-bwgTg8PKTpUUn2LXs-bk/ "Poetry-user guide") for poetry library
+[User guide](https://docs.google.com/document/d/1wMZtLQ3Yi1npmWIuse6JpF-bwgTg8PKTpUUn2LXs-bk/ "Poetry-user guide") for more commands on poetry 
 
      Packages installation : 
         - pip install poetry 
