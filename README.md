@@ -42,7 +42,7 @@ Pre-Requisites:
 
     Packages installation : 
 	- Needed poetry library for package dependency management
-[this](https://docs.google.com/document/d/1wMZtLQ3Yi1npmWIuse6JpF-bwgTg8PKTpUUn2LXs-bk/edit) 
+	[this](https://docs.google.com/document/d/1wMZtLQ3Yi1npmWIuse6JpF-bwgTg8PKTpUUn2LXs-bk/edit) 
 	- Install all the required packages (included in pyproject.toml file) using poetry install --no-root
 
 
