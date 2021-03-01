@@ -54,7 +54,7 @@ Pre-Requisites:
 	    - Install all the required packages (specified in pyproject.toml file) using the following command:
         poetry install --no-root
         - Add a new package using poetry as follows:
-        poetry add < package_name > [@< specific_version_number >]
+        poetry add <package_name>[@<specific_version_number>]
 
      Convert requirements.txt (pip) to pyproject.toml file (poetry) :
         - pip install poetrify 
