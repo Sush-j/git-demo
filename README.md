@@ -41,25 +41,26 @@ Configurations:
 Pre-Requisites:
 [Refer](https://docs.google.com/document/d/1wMZtLQ3Yi1npmWIuse6JpF-bwgTg8PKTpUUn2LXs-bk/edit) for poetry user guide
 
-   - Packages required : 
+     - Packages required : 
         - datastore
         - knowledge-base
         - auto-correct
         - autocomplete-state
         - helpers	
 
-   - Packages installation : Install all the required packages (included in pyproject.toml file) using poetry install --no-root
+     - Packages installation : Install all the required packages (included in pyproject.toml file) using :
+     poetry install --no-root
 
 
 
-   - Spell Checker Pickles
+     - Spell Checker Pickles
         Files:  "../datastore/auto_correct/kb_autocorrect.pkl"
                 "../datastore/auto_correct/stopwords_trie.pkl"
                 "../datastore/auto_correct/english_auto_correct.pkl"
                 "../datastore/auto_correct/valid_grams_trie.pkl"
         For more details, refer to the "auto-correct" & "datastore" modules
 
-   - Knowledge Base Pickles
+     - Knowledge Base Pickles
         Files: 
           "../datastore/knowledge_base/knowledge_base.pkl" for core Ferma
           "../datastore/knowledge_base/knowledge_base_qual.pkl" for Qual Documents
