@@ -49,8 +49,8 @@ Pre-Requisites:
 
 [User guide](https://docs.google.com/document/d/1wMZtLQ3Yi1npmWIuse6JpF-bwgTg8PKTpUUn2LXs-bk/ "Poetry-user guide") for more commands on poetry 
 
-     Packages installation : (using poetry tool for packaging and dependency management)        
-        - pip install poetry 
+     Packages installation :         
+        - pip install poetry  // using poetry tool for packaging and dependency management
 	    - Install all the required packages (specified in pyproject.toml file) using the following command:
         poetry install --no-root
         - Add a new package using poetry as follows:
@@ -58,9 +58,9 @@ Pre-Requisites:
 
      Convert requirements.txt (pip) to pyproject.toml file (poetry) :
         - pip install poetrify 
-        - poetrify  # verify on successful installation
-        - poetrify generate -s requirements.txt  # set source file and create pyproject.toml
-        - poetry install --no-root  # lock the dependencies
+        - poetrify  // verify on successful installation
+        - poetrify generate -s requirements.txt  // set source file and create pyproject.toml
+        - poetry install --no-root  // lock the dependencies
 
      Spell Checker Pickles
         Files:  "../datastore/auto_correct/kb_autocorrect.pkl"
