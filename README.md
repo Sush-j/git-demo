@@ -49,7 +49,8 @@ Pre-Requisites:
         - autocomplete-state
         - helpers	
 
-     Packages installation : Install all the required packages (included in pyproject.toml file) using :
+     Packages installation : 
+	- Install all the required packages (included in pyproject.toml file) using :
      poetry install --no-root
 
 
