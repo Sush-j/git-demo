@@ -39,11 +39,10 @@ Configurations:
 
 
 Pre-Requisites:
-[Poetry](https://docs.google.com/document/d/1wMZtLQ3Yi1npmWIuse6JpF-bwgTg8PKTpUUn2LXs-bk/edit) 
 
     Packages installation : 
 	- Poetry library : for package dependency management
-	- Visit _Poetry_ to install poetry library
+	- Visit [Poetry](https://docs.google.com/document/d/1wMZtLQ3Yi1npmWIuse6JpF-bwgTg8PKTpUUn2LXs-bk/edit) to install poetry library
 	- Install all the required packages (included in pyproject.toml file) using poetry install --no-root
 
 
