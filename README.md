@@ -50,8 +50,11 @@ Pre-Requisites:
         - helpers	
 
      Packages installation : 
-	    - Install all the required packages (specified in pyproject.toml file) using :
-     poetry install --no-root
+	    - Install all the required packages (specified in pyproject.toml file) using the following command:
+        poetry install --no-root
+        - Add a new package using poetry as follows:
+        poetry add < package_name > [@< specific_version_number >]
+
 
 
 
